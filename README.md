@@ -13,3 +13,4 @@ I'll be adding new files as my course progresses, and am primarily using this as
 learning tool
 
 ---If you're a visitor, feel free to pull/commit suggestions on fancier things I could try!
+---Just be sure to leave helpful comments
