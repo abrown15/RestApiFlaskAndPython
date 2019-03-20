@@ -12,5 +12,4 @@ The Course can be found here->       https://www.udemy.com/rest-api-flask-and-py
 I'll be adding new files as my course progresses, and am primarily using this as a 
 learning tool
 
----If you're a visitor, feel free to pull/commit suggestions on fancier things I could try!
----Just be sure to leave helpful comments
+---If you're a visitor, feel free to give suggestions on fancier things I could try!
